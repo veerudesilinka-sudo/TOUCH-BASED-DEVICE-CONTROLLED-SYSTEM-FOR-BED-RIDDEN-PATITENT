@@ -665,7 +665,7 @@ The project demonstrates practical concepts of **Embedded C, ARM7 programming, G
 
 # 👨‍💻 Author
 
-**Sohel Shaik**
+**desalinka veera venkata kondrajulu**
 
 ### Skills
 
